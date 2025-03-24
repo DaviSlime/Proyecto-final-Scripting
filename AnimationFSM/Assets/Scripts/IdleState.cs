@@ -6,7 +6,9 @@ public class IdleState : State
 
     public override void Enter()
     {
+        
         animator.Play("Idle");
+
     }
 
     public override void Update() { }
