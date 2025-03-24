@@ -1,0 +1,21 @@
+# Carpetas y archivos generados por Unity que no deben subirse
+Library/
+Temp/
+Logs/
+Obj/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# Archivos específicos de Visual Studio
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
